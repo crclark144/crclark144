@@ -2,7 +2,7 @@
 - 👀 I’m interested in building software and robotics. I also enjoy backpacking, hiking, and baking.
 - 🌱 I’m currently learning JAVA, HTML, CSS, Javascript, and MySQL. I also enjoy learning about circuits with Arduino.
 - 💞️ I’m looking to collaborate on various projects that include the above software and hardware.
-- 📫 How to reach me crclark144@gmail.com
+
 
 <!---
 crclark144/crclark144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
